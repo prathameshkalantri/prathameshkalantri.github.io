@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.866bce9e.chunk.css",
-    "main.js": "./static/js/main.cf0ee4e9.chunk.js",
-    "main.js.map": "./static/js/main.cf0ee4e9.chunk.js.map",
+    "main.css": "./static/css/main.74335abe.chunk.css",
+    "main.js": "./static/js/main.93c29f8e.chunk.js",
+    "main.js.map": "./static/js/main.93c29f8e.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.20ec6a73.js",
     "runtime-main.js.map": "./static/js/runtime-main.20ec6a73.js.map",
-    "static/js/2.bdceaae1.chunk.js": "./static/js/2.bdceaae1.chunk.js",
-    "static/js/2.bdceaae1.chunk.js.map": "./static/js/2.bdceaae1.chunk.js.map",
+    "static/js/2.cdcd9d88.chunk.js": "./static/js/2.cdcd9d88.chunk.js",
+    "static/js/2.cdcd9d88.chunk.js.map": "./static/js/2.cdcd9d88.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.58783ce9550148b8ff37c0255c55d6cb.js": "./precache-manifest.58783ce9550148b8ff37c0255c55d6cb.js",
+    "precache-manifest.5a6267d87daf32f758ed400a5d4e38bb.js": "./precache-manifest.5a6267d87daf32f758ed400a5d4e38bb.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.866bce9e.chunk.css.map": "./static/css/main.866bce9e.chunk.css.map",
+    "static/css/main.74335abe.chunk.css.map": "./static/css/main.74335abe.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/UCI.png": "./static/media/UCI.315c0a74.png",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
@@ -22,6 +22,7 @@
     "static/media/codeInLogo.png": "./static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "./static/media/contactMail.5f915405.png",
     "static/media/csu Chico.4145fd6f.png": "./static/media/csu Chico.4145fd6f.4145fd6f.png",
+    "static/media/csu_chicoFinal.png": "./static/media/csu_chicoFinal.e8a1960d.png",
     "static/media/data_science.svg": "./static/media/data_science.ebf35d7f.svg",
     "static/media/deeplearning_ai_logo.png": "./static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/developerActivity.svg": "./static/media/developerActivity.3e23ca14.svg",
@@ -59,12 +60,13 @@
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "./static/media/tiktok_logo.0993e324.png",
     "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.d6363089.svg",
-    "static/media/updatus.svg": "./static/media/updatus.f97f36a9.svg"
+    "static/media/updatus.svg": "./static/media/updatus.f97f36a9.svg",
+    "static/media/updatusINC.png": "./static/media/updatusINC.3ebca97b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.20ec6a73.js",
-    "static/js/2.bdceaae1.chunk.js",
-    "static/css/main.866bce9e.chunk.css",
-    "static/js/main.cf0ee4e9.chunk.js"
+    "static/js/2.cdcd9d88.chunk.js",
+    "static/css/main.74335abe.chunk.css",
+    "static/js/main.93c29f8e.chunk.js"
   ]
 }
